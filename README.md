@@ -68,7 +68,7 @@ GAM: best AUC, TPR, FNR (and competitive Precision).
 
 Random Forest: slightly behind but comparable overall.
 
-Full metric table is in the pdf report. 
+Full metric table is in the html report. 
 
 ## Conclusions
 
